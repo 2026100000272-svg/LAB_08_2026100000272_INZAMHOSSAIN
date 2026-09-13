@@ -1,0 +1,4 @@
+my-goals.txt
+Develope app
+Machine learning
+Web development  
