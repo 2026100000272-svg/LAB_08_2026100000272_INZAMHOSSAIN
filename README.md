@@ -14,3 +14,5 @@ local and remote.
 First item Working Directory
 Second item Staging Area 
 Thirtd item Local Repository
+
+### go to the link to get the instruction signs https://www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com
